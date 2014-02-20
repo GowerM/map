@@ -7,11 +7,11 @@ $(document).ready(function(){
 		//Good Stuff
 
 new Maplace({
-	show_markers: false,
+	show_markers: true,
 	locations: [{
-		lat: 45.9, 
-		lon: 10.9,
-		zoom: 8
+		lat: 47.659744, 
+		lon: -117.421618,
+		zoom: 17
 			}]
 		}).Load(); 
 
